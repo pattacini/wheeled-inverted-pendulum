@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="data/training_data.mat" GroupUUID="default" Icon="" Name="training_data" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="27ac2791-8aba-4384-b33d-43354d1f18ae"/>
+</Info>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="scripts/WIP_DataFile.m" GroupUUID="default" Icon="" Name="ECARGO_DataFile" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="6dd582b5-db60-43e1-bda2-bcf86382dfc7"/>
+</Info>
