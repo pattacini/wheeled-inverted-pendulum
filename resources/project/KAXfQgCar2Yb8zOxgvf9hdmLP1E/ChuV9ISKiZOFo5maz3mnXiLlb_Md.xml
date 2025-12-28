@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="models/control_comparison.slx" GroupUUID="default" Icon="" Name="control_comparison" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="5dc746e3-05d2-4086-94f0-0acb4a1b7768"/>
+</Info>
