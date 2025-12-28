@@ -1,6 +1,9 @@
 Wheeled Inverted Pendulum (WIP) Control Project
 ===============================================
 
+[![](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/182932-control-of-a-wheeled-inverted-pendulum)
+[![](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/fileexchange/v1?id=182932)
+
 # Introduction
 This project focuses on the modeling and control of a Wheeled Inverted Pendulum (WIP) system. The WIP is modeled using a multibody approach to capture the physical dynamics accurately.
 
